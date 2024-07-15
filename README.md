@@ -1,5 +1,6 @@
 # Supply_chain
 **Supply Chain Strategic Dashboard Project**
+
 Overview :
 This project aims to enhance procurement decision-making by developing a comprehensive Supply Chain Strategic Dashboard using Microsoft Power BI.
 The dashboard integrates data from various sources, providing a holistic view of supply chain dynamics, helping the Procurement Department to make informed and strategic decisions.
